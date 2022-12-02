@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="onefetch"
+export PACKAGE_CORE_VERSION=v2.14.2
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/o2sh/onefetch/releases/download"
